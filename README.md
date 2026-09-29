@@ -1,4 +1,8 @@
-# วิธีติดตั้ง OpenSim 4.6
+# OpenSim + AI: ทำนายแรงกระแทกที่ข้อต่อ
+
+โปรเจกต์นี้ใช้ OpenSim จำลองการกระแทก แล้วนำผลที่ได้ไปสร้างโมเดล AI ทำนายแรงที่ข้อต่อ
+
+## ขั้นที่ 1: ติดตั้ง OpenSim 4.6
 
 ไฟล์ทั้งหมดดาวน์โหลดจาก repo ทางการ [opensim-org/opensim-gui](https://github.com/opensim-org/opensim-gui/releases/tag/4.6_beta)
 ไม่ต้องสมัครบัญชี GitHub หรือ simtk.org
