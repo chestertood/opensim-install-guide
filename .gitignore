@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+opensim.log
+*.exe
+*.pkg
+.vscode/

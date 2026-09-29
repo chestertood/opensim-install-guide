@@ -97,3 +97,10 @@ python -c "import opensim; print(opensim.GetVersion())"
 ถ้าบรรทัดสุดท้ายแสดง `4.6` แปลว่าติดตั้งสำเร็จ
 
 หมายเหตุ: ตัวที่ติดตั้งผ่าน pip ไม่มีไฟล์โมเดล (`.osim`) มาด้วย ต้องติดตั้งโปรแกรม OpenSim ข้างบนก่อนจึงจะมีไฟล์โมเดลให้ใช้
+
+---
+
+## ไฟล์โจทย์และตัวอย่าง
+
+โฟลเดอร์ [`impact_biomechanics/`](impact_biomechanics/) มีไฟล์โมเดล, ไฟล์ setup และสคริปต์ Python ตัวอย่าง
+โหลดทั้งหมด: กดปุ่ม **Code** สีเขียว > **Download ZIP** แล้วเปิดไฟล์ [`impact_biomechanics/README.md`](impact_biomechanics/README.md) ก่อน
